@@ -1,0 +1,10 @@
+Java Tutorial:
+https://www.tutorialspoint.com/java/index.htm
+
+Java Collection Framework:
+https://www.geeksforgeeks.org/java/java-collections-interview-questions/
+https://www.interviewbit.com/java-collections-interview-questions/
+https://www.baeldung.com/java-collections-interview-questions
+
+data engineering tools and skills:
+https://cloud.google.com/learn/training/data-engineering-and-analytics

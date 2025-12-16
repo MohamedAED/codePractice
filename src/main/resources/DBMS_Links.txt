@@ -1,0 +1,6 @@
+DBMS Interview:
+https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/
+https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions-set-2/
+https://www.geeksforgeeks.org/gate/database-design-modeling-interview-questions/
+https://www.geeksforgeeks.org/dbms/transactions-concurrency-recovery-interview-questions/
+https://www.geeksforgeeks.org/dbms/storage-indexing-advanced-topics-interview-questions/
