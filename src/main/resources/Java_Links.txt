@@ -1,10 +1,33 @@
-Java Tutorial:
+*Java Tutorial:
 https://www.tutorialspoint.com/java/index.htm
 
-Java Collection Framework:
+*Java Collection Framework:
 https://www.geeksforgeeks.org/java/java-collections-interview-questions/
 https://www.interviewbit.com/java-collections-interview-questions/
 https://www.baeldung.com/java-collections-interview-questions
 
-data engineering tools and skills:
+*data engineering tools and skills:
 https://cloud.google.com/learn/training/data-engineering-and-analytics
+
+*links:
+https://blog.udemy.com/java-interview-questions/
+https://codefinity.com/blog/The-80-Top-Java-Interview-Questions-and-Answers
+
+*java multithreading interview questions:
+https://www.geeksforgeeks.org/java/java-multithreading-interview-questions-and-answers/
+https://medium.com/@priyasrivastava18official/java-interview-questions-multithreading-threads-executorservice-callable-future-b26019793f7d
+https://dev.to/krishna7852/50-interview-questions-on-multithreading-with-answers-2f8n
+https://www.indeed.com/career-advice/interviewing/multithreading-interview-questions
+
+* java singleton design pattern best practices:
+* hibernate inheritance mapping
+
+* system design:
+https://www.reddit.com/r/leetcode/comments/1j9a8u6/45_system_design_questions_i_curated_for/?rdt=58683
+https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/
+https://www.interviewbit.com/system-design-interview-questions/
+https://leetcode.com/explore/featured/card/system-design-for-interviews-and-beyond/
+https://www.geeksforgeeks.org/data-engineering/hadoop-architecture/
+https://www.geeksforgeeks.org/data-engineering/hadoop-cluster-properties-and-its-types/
+https://www.geeksforgeeks.org/dsa/breadth-first-search-or-bfs-for-a-graph/
+https://www.geeksforgeeks.org/dsa/depth-first-search-or-dfs-for-a-graph/
